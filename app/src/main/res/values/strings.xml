@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwilioClient</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_capability_url">https://your_company.com/token</string>
+</resources>
